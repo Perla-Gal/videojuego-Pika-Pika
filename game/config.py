@@ -4,7 +4,7 @@
 WIDTH = 900 #dimensiones de la ventana en px
 HEIGHT = 500
 
-TITLE= "pUerKo_pUerKiN" #TIULO DEL VIDEOJUEGO
+TITLE= "Pika-Pika" #TIULO DEL VIDEOJUEGO
 
 PLAYER_GRAV = 1.2  # la gravedad del salto 
 
